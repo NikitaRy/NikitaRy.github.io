@@ -23,6 +23,7 @@
 	* add key splitter for ECDSA-based MPC (for testing)
 	* add ability to work with deterministic version of ECDSA (according the NIST) 
 	* do llms security audit (crypto and OWASP-LLM-10 vulnerabilities) (NDA)
+ 
 ### Non-commercial
 * **Software environment execution (may 2026 - now): || FHE, TEE, Golang**
 	* research strategies to emulate TEE (trusted environment execution) via software methods and FHE schemas
