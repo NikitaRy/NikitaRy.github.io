@@ -1,5 +1,5 @@
 # Nikita Ryzhakov
-## Cryptography Researcher
+# Cryptography Researcher
 ## Contacts
 * **email:** ryzhakov.h@ya.ru
 * **telegram:** t.me/nikiborg
@@ -14,8 +14,8 @@
 * python, golang || grpc
 * software environment execution
 
-## Projects
-### Commercial
+# Projects
+## Commercial
 * **AI People (june 2025 - now)**:
 	* develop schemas for ZK-KYC with circom, noir and integrate it with blockchain with grpc
 	* do tests for zk-schemas (unit, integration)
@@ -24,7 +24,7 @@
 	* add ability to work with deterministic version of ECDSA (according the NIST) 
 	* do llms security audit (crypto and OWASP-LLM-10 vulnerabilities) (NDA)
  
-### Non-commercial
+## Non-commercial
 * **Software environment execution (may 2026 - now): || FHE, TEE, Golang**
 	* research strategies to emulate TEE (trusted environment execution) via software methods and FHE schemas
 * **FHE lattice storages optimisation and formal verification (october 2025 - now): || lattice crypto, coq**
@@ -43,6 +43,6 @@
 ---
 
 ## Additional
-### Teaching
+## Teaching
 * scientific leadership in student research at the intersection of machine learning and cybersecurity (february 2026 - now)
 * teaching assistant at St. Petersburg University (discrete mathematics) (september 2024 - december 2024)
