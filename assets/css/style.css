@@ -6,7 +6,7 @@ h1{
 
 h2, h3{
     color: #2f353b;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana;
 }
 
 h2{
@@ -14,4 +14,10 @@ h2{
 }
 h3{
     font-size: medium;
+}
+
+p{
+    color: #2f353b;
+    font-size: small;
+    line-height: normal;
 }
