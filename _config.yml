@@ -3,3 +3,6 @@ title: Pseudo-narrative
 description: Nikiborg homepage
 
 markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
