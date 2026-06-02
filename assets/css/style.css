@@ -1,11 +1,11 @@
 h1{
-    color: indigo;
-    font-size: large;
+    color: #161a1e;
+    font-size: larger;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2, h3{
-    color: darkslateblue;
-    font-size: larger;
+    color: 2f353b;
+    font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
