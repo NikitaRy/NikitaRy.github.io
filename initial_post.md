@@ -2,6 +2,6 @@
 
 Hi!!!
 Try to add a math formulo:  ```math
- \frac{1}{\pi}
+ $\frac{1}{\pi}$
  ```
 
