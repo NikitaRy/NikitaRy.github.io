@@ -1,7 +1,5 @@
 theme: jekyll-theme-minimal
 title: Pseudo-narrative
-description: /@Nikiborg homepage
+description: Nikiborg homepage
 
 markdown: kramdown
-kramdown:
-  math_engine: mathjax
