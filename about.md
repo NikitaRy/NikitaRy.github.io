@@ -40,7 +40,7 @@
   * make a formal verification of crypto algorithms with coq;
 * **RUST HEAAN (december 2024 - september 2025) (math, lattice crypto, ckks):**
   * advised on algebra and number theory (lattices, finite fields);
-  * proposed a method for storing polynomials with coefficients from Z/3Z through rust int's (analogous to NAF), thereby reducing the amount of memory consumed by 6 times
+  * proposed a method for storing polynomials with coefficients from $\mathbb{Z}/3\mathbb{Z}$ through rust int's (analogous to NAF), thereby reducing the amount of memory consumed by 6 times
   * a class of polynomials is proposed that are hypothetically the most reliable among polynomials of a given degree.
 
 ## Hard skills
