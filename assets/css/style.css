@@ -1,0 +1,9 @@
+h1{
+    color: darkorchid;
+    font-size: large;
+}
+
+h2, h3{
+    color: blueviolet;
+    font-size: larger;
+}
