@@ -2,13 +2,13 @@
 
 ## Cryptography Researcher
 
-## Contacts
+### Contacts
 
 * **email:** emailto:ryzhakov.h@ya.ru
 * **telegram:** t.me/nikiborg
 * **github:** github.com/NikitaRy
 
-## Keywords
+### Keywords
 
 * fully homomorphic encryption & data storage optimization
 * side-channel attacks
@@ -20,7 +20,7 @@
 
 ## Projects
 
-## Commercial
+### Commercial
 
 * **AI People (june 2025 - now)**:
   * develop schemas for ZK-KYC with circom, noir and integrate it with blockchain with grpc
@@ -30,7 +30,7 @@
   * add ability to work with deterministic version of ECDSA (according the NIST)
   * do llms security audit (crypto and OWASP-LLM-10 vulnerabilities) (NDA)
 
-## Non-commercial
+### Non-commercial
 
 * **Software environment execution (may 2026 - now) (FHE, TEE, Golang):**
   * research strategies to emulate TEE (trusted environment execution) via software methods and FHE schemas
@@ -52,7 +52,7 @@
 
 ## Additional
 
-## Teaching
+### Teaching
 
 * scientific leadership in student research at the intersection of machine learning and cybersecurity (february 2026 - now)
 * teaching assistant at St. Petersburg University (discrete mathematics) (september 2024 - december 2024)
