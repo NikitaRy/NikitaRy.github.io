@@ -27,7 +27,7 @@
   * do tests for zk-schemas (unit, integration)
   * make a tss-lib fork (MPC with golang)
   * add key splitter for ECDSA-based MPC (for testing)
-  * add ability to work with deterministic version of ECDSA (according the RFC)
+  * add ability to work with deterministic version of ECDSA (according to the RFC)
   * do llms security audit (crypto and OWASP-LLM-10 vulnerabilities) (NDA)
 
 ### Non-commercial
