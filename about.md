@@ -22,7 +22,7 @@
 
 ### Commercial
 
-* **AI People (june 2025 - now)**:
+* **AI People (june 2025 - june 2026)**:
   * develop schemas for ZK-KYC with circom, noir and integrate it with blockchain with grpc
   * do tests for zk-schemas (unit, integration)
   * make a tss-lib fork (MPC with golang)
