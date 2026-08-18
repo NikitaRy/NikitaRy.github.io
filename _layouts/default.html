@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}" data-theme="dark">
+<html lang="{{ site.lang | default: "en-US" }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
 
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+  href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.yellow.min.css"
+>
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 
@@ -29,6 +31,6 @@
 <body>
   <main>
   {{ content }}
-  </main class="container-fluid">
+  </main class="container">
 </body>
 </html>
