@@ -36,7 +36,7 @@
   * research strategies to emulate TEE (trusted environment execution) via software methods and FHE schemas
 * **FHE lattice storages optimisation and formal verification (october 2025 - now) (lattice crypto, coq):**
   * research strategies to reduce memory consumption for storing lattices using the geometry of numbers and, in particular, diophantine approximations; at the moment I am writing a preprint with the results of the study and working on computational experiments;
-    * investigate vectors for attacks through third-party channels;
+  * investigate vectors for attacks through third-party channels;
   * make a formal verification of crypto algorithms with coq;
 * **RUST HEAAN (december 2024 - september 2025) (math, lattice crypto, ckks):**
   * advised on algebra and number theory (lattices, finite fields);
