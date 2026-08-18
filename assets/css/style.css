@@ -1,11 +1,9 @@
 h1{
-    color: #161a1e;
     font-size: larger;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h2, h3{
-    color: #161a1e;
     font-family: Verdana;
 }
 
@@ -17,7 +15,6 @@ h3{
 }
 
 p, li{
-    color: #2f353b;
     font-size: small;
     line-height: normal;
     width: 75%;
